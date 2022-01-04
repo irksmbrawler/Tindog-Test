@@ -1,0 +1,132 @@
+.navbar{
+    padding-bottom: 4.5rem;
+}
+.tindog-image{
+    width: 50%;
+    transform: rotate(15deg);
+}
+.tindog-title{
+    padding-top: 30px;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.1rem;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: lighter;
+}
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.8em;
+    font-weight: bold;
+}
+.download-button{
+    margin: 5% 3% 3% 0;
+}
+#title{
+    background-color: rgba(248, 3, 3, 0.795);
+    font-weight: 900;
+    font-size: large;
+    margin-top: 20px;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+#features{
+    padding: 8% 8%;
+}
+.feature-box{
+    text-align: center;
+    padding: 9%;
+}
+h3{
+    padding-top: 12px;
+    font-weight:900;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.8em;
+}
+p{
+    text-align: center;
+    color:grey;
+}
+.icon:hover{
+    color: rgba(248, 3, 3, 0.795);
+}
+.icon{
+    color: rgba(252, 81, 29, 0.904);
+}
+#testimonials{
+    background-color:rgba(253, 92, 43, 0.904);
+    text-align: center;
+    
+    color: ivory;
+    font-weight: bold;
+}
+.carousel-item{
+    padding:8%;
+}
+h2{
+    padding:8%;
+    font-family: 'Montserrat', sans-serif;
+}
+.testimonial-image{
+    width: 15%;
+    border-radius:100%;
+}
+#press{
+    background-color:rgba(253, 92, 43, 0.904);
+    text-align: center;
+    padding-bottom: 3%;
+}
+.press-logo{
+    width:15%;
+    margin: 20px 20px 15px;
+}
+#pricing{
+    padding: 100px;
+}
+.card-head{
+    background-color: rgba(248, 3, 3, 0.795);
+    text-align: center;
+    color: white;
+}
+.pricing-column{
+    padding:3%;
+}
+.card-body{
+    background-color: rgba(255, 225, 225, 0.795);
+    text-align: center;
+
+}
+.pricing-title{
+    text-align: center;
+}
+#cta{
+    background-color: rgba(248, 3, 3, 0.795);
+    text-align: center;
+    color: ivory;
+    
+}
+.cta-class{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.cta-title{
+    font-family: 'Montserrat', sans-serif;
+}
+.cta-button{
+    margin: 12px;
+    padding: 10px 30px;
+}
+#footer{
+    height: 100px;
+    padding-top: 50px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
